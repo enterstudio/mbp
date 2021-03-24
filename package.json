@@ -23,7 +23,7 @@
     "body-parser": "^1.15.0",
     "classnames": "^2.2.5",
     "compression": "^1.6.1",
-    "cpy": "^4.0.0",
+    "cpy": "^5.0.0",
     "dotenv": "^2.0.0",
     "eslint": "^2.9.0",
     "eslint-config-airbnb": "^8.0.0",
